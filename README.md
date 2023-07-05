@@ -29,7 +29,7 @@ In this repo, I've documented one of the real world 'AZURE Data Engneering' exam
       ~ Specify the Linked service of azure sql database and table name which has the schema to store the data.
       ~ To Transfer data internally from azure to azure resource we need to use Data Flows option.
       ~ Add source in dataflow to add azure data lake dataset(which is now our source dataset), set json setting as "Document per line".
-      ~ Meanwhile create a table schema for extracted data to store in sql.
+      ~ Meanwhile create a table schema for extracted data to store in sql. --- https://github.com/abisekhaganesan/adf_adb_project1/blob/main/2.Azure%20Data%20Lake%20to%20Azure%20SQL%20Database%20-%20SS/Table%20Schema.txt
       ~ And Projected their datatype values in source Dataflow.
       ~ Create a Derived Column to store date values.
       ~ Add Sink to Dataflow to sink the gathered data into the Azure sql database. Also do Mannual mapping to map column names from source to sql table schema.
