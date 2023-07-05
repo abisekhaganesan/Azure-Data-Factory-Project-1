@@ -10,7 +10,7 @@ In this repo, I've documented one of the real world 'AZURE Data Engneering' exam
 3. Storage Account - Data Lake Gen 2
 4. Azure SQL Database
 
-# Achitecture of the Example
+# Achitecture
 
 
 ![image](https://github.com/abisekhaganesan/adf_adb_project1/assets/60116728/d632dfc9-65c7-48c4-8b30-5bf8ec0bc9d7)
