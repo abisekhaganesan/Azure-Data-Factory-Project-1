@@ -14,3 +14,9 @@ In this repo, I've documented one of the real world 'AZURE Data Engneering' exam
 
 
 ![image](https://github.com/abisekhaganesan/adf_adb_project1/assets/60116728/d632dfc9-65c7-48c4-8b30-5bf8ec0bc9d7)
+
+
+# Step 1: Extract data from Git(source) to Azure Data Lake(Destination)
+      ~ create Dataset from Factory Resource in Azure DataFactory Author for source, destination and filename.
+      ~ Source Dataset should contain a linked Service, create one for HTTP. specify the base url and set Parameter for Relative URL.
+      ~Destination Dataset should contain a linked Service For Azure Data Lake Gen 2. and specify the File path to azure storage account "raw" to store the date on cloud. also set parameter value to get save each file from git.
