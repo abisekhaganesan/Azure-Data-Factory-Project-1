@@ -1,0 +1,6 @@
+
+IPL_Dataset_Destination_json---File path= @dataset().DestinationFileName
+IPL_Dataset_Source_cvs---Relative URL = @dataset().SourceFileName
+ForEach---settings---items = @activity('Lookup All Files Name').output.value
+ForEach---Activity---Source----Source dataset = @item().Files
+ForEach---Activity---Sink----Sink dataset = @replace(item().Files,'.csv','.json') 
