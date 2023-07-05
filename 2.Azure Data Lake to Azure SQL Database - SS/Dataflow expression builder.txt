@@ -1,0 +1,1 @@
+Derived column's setting----Columns = coalesce(toDate(Date,'dd-MM-yyy'))
