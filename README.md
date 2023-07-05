@@ -34,4 +34,4 @@ In this repo, I've documented one of the real world 'AZURE Data Engneering' exam
       ~ Create a Derived Column to store date values.
       ~ Add Sink to Dataflow to sink the gathered data into the Azure sql database. Also do Mannual mapping to map column names from source to sql table schema.
 
------ Refer 2.Azure Data Lake to Azure SQL Database - SS ----
+---- Refer [**2.Azure Data Lake to Azure SQL Database - SS**](https://github.com/abisekhaganesan/adf_adb_project1/tree/main/2.Azure%20Data%20Lake%20to%20Azure%20SQL%20Database%20-%20SS) ----
