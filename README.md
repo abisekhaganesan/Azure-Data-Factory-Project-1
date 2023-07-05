@@ -20,3 +20,5 @@ In this repo, I've documented one of the real world 'AZURE Data Engneering' exam
       ~ create Dataset from Factory Resource in Azure DataFactory Author for source, destination and filename.
       ~ Source Dataset should contain a linked Service, create one for HTTP. specify the base url and set Parameter for Relative URL.
       ~Destination Dataset should contain a linked Service For Azure Data Lake Gen 2. and specify the File path to azure storage account "raw" to store the date on cloud. also set parameter value to get save each file from git.
+
+---- Refer **1.Git Source to Azure Data Lake Gen 2 - SS ** ----
