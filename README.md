@@ -21,4 +21,4 @@ In this repo, I've documented one of the real world 'AZURE Data Engneering' exam
       ~ Source Dataset should contain a linked Service, create one for HTTP. specify the base url and set Parameter for Relative URL.
       ~Destination Dataset should contain a linked Service For Azure Data Lake Gen 2. and specify the File path to azure storage account "raw" to store the date on cloud. also set parameter value to get save each file from git.
 
----- Refer **1.Git Source to Azure Data Lake Gen 2 - SS ** ----
+---- Refer [**1.Git Source to Azure Data Lake Gen 2 - SS **](https://github.com/abisekhaganesan/adf_adb_project1/tree/main/1.Git%20Source%20to%20Azure%20Data%20Lake%20Gen%202%20-%20SS)https://github.com/abisekhaganesan/adf_adb_project1/tree/main/1.Git%20Source%20to%20Azure%20Data%20Lake%20Gen%202%20-%20SS ----
